@@ -1,0 +1,32 @@
+---
+description: Rules for the FocusBrave macOS project
+alwaysApply: true
+---
+
+# Project
+
+This is a local macOS focus app built for personal use.
+
+Goal:
+Create a focus session controller that later integrates with Brave browser.
+
+# Scope
+
+- macOS only
+- SwiftUI
+- personal project
+- no App Store requirements
+
+# MVP
+
+1. Focus timer
+2. Break timer
+3. Start/Stop focus session
+4. Simple UI
+5. Later Brave integration
+
+# Code style
+
+Keep code simple.
+Avoid overengineering.
+Prefer readable SwiftUI code.
